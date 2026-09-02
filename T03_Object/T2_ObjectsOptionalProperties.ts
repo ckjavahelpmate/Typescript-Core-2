@@ -22,3 +22,6 @@ const user2: {
 
 console.log( `Name : ${user2.name}`)
 console.log( `Role : ${user2.role}`) // string | undefined
+
+
+export{}
