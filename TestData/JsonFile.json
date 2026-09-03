@@ -1,0 +1,20 @@
+{
+  "TC001": {
+    "name": "Valid login",
+    "username": "testuser",
+    "password": "Test@123",
+    "expectedResult": "Login successful"
+  },
+  "TC002": {
+    "name": "Invalid login",
+    "username": "wronguser",
+    "password": "wrong123",
+    "expectedResult": "Login failed"
+  },
+  "TC003": {
+    "name": "Empty username",
+    "username": "",
+    "password": "Test@123",
+    "expectedResult": "Username is required"
+  }
+}

@@ -32,4 +32,5 @@ const user3: {
 console.log( `Name : ${user3.name}`)
 console.log( `Role : ${user3.role}`)
 
+
 export{}

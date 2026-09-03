@@ -1,0 +1,2 @@
+Hello CK
+Welcome to TypeScript
